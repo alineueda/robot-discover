@@ -11,7 +11,9 @@ Abra um terminal ou prompt de comando e execute o seguinte comando para instalar
 
 bash
 Copy code
+
 pip install robotframework
+
 Este comando instalará o Robot Framework e suas dependências.
 
 3. Instalação de Bibliotecas Adicionais (opcional):
@@ -19,7 +21,9 @@ Você pode precisar instalar bibliotecas adicionais dependendo dos tipos de test
 
 bash
 Copy code
+
 pip install robotframework-seleniumlibrary
+
 Substitua robotframework-seleniumlibrary pelo nome da biblioteca que você deseja instalar.
 
 4. Verificação da Instalação:
@@ -27,7 +31,9 @@ Após a instalação, você pode verificar se o Robot Framework foi instalado co
 
 bash
 Copy code
+
 robot --version
+
 Este comando deve exibir a versão do Robot Framework que foi instalada.
 
 5. Instalação do WebDriver (se necessário):
