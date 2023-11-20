@@ -38,3 +38,12 @@ Este comando deve exibir a versão do Robot Framework que foi instalada.
 
 5. Instalação do WebDriver (se necessário):
 Se você estiver usando o Robot Framework para automação de testes web com a biblioteca SeleniumLibrary, precisará de um WebDriver compatível com o navegador que você está planejando automatizar (por exemplo, ChromeDriver para o Google Chrome ou GeckoDriver para o Mozilla Firefox). Baixe o WebDriver apropriado e certifique-se de que esteja no PATH do sistema.
+
+6. Instalar o playwright
+Use o comando 
+   pip install playwright
+
+7. Instalar a biblioteca do browser 
+Use o comando
+   pip install robotframework-browser  
+
